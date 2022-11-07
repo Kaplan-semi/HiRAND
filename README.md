@@ -2,7 +2,7 @@
 This is the code of paper: HiRAND: A novel semi-supervised deep learning framework for predicting drug response to therapy in cancer.
 
 # Requirements
-Python 3.7.3
+Python 3.7.3  
 Please install other pakeages by pip install -r requirements.txt
 
 # Usage Example
