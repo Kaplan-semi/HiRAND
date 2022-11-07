@@ -11,12 +11,12 @@ Runing HiRAND on simulation data: python train_simulation.py
 Runing HiRAND for 5 times on data: sh submit.sh  
 
 # Code Base Structure
-train_drug.py: main script for drug reponse prediction.  
-train_simulation.py: main script for simulation data prediction.  
-until.py: contains definitions for aample similarity graph construction and etc.  
-model.py: contains PyTorch model definitions for HiRAND.  
-generate_simulation_data.py: generates the simulation data.  
-submit.sh: complete the multiple prediction task using train_drug.py or train_simulation.py.   
+**train_drug.py**: main script for drug reponse prediction.  
+**train_simulation.py**: main script for simulation data prediction.  
+**until.py**: contains definitions for aample similarity graph construction and etc.  
+**model.py**: contains PyTorch model definitions for HiRAND.  
+**generate_simulation_data.py**: generates the simulation data.  
+**submit.sh**: complete the multiple prediction task using train_drug.py or train_simulation.py.   
 
 # The drug related data
 The drug data we used is too large to upload. If you need them, please contact us by email.
