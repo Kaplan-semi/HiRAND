@@ -19,7 +19,7 @@ Runing HiRAND for 5 times on data: sh submit.sh
 **submit.sh**: complete the multiple prediction task using train_drug.py or train_simulation.py.   
 
 # The drug related data
-The drug data we used is too large to upload. If you need them, please download [drug data](https://pan.baidu.com/s/1KFEx11_jHQDQTuXMjTwcgQ?pwd=bu2d). (retrieve password:bu2d).
+The drug data is too large to upload. If you need them, please download [drug data](https://pan.baidu.com/s/1KFEx11_jHQDQTuXMjTwcgQ?pwd=bu2d). (retrieve password:bu2d).
 
 # Contact
 For questions or comments about the code please contact: likang@ems.hrbmu.edu.cn
